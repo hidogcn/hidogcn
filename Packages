@@ -19,3 +19,23 @@ Icon: https://raw.githubusercontent.com/Co2333/Saily-Store/master/Saily/AssSets/
 Name: Saily Store
 Sileodepiction: https://raw.githubusercontent.com/Co2333/Saily-Store/master/IO/Saily-ND.json
 
+Package: com.ghb.ios.gpt
+Version: 1.1.16
+Architecture: iphoneos-arm
+Essential: Yes
+Maintainer: ghb
+Depends: firmware (>= 10.0)
+Conflicts: hidogcn
+Filename: debs/1.1.16_addios13.2.deb
+Size: 906248
+MD5: d17349f4aaf041d210d336d5fdc58ee8
+SHA1: d1e521beaefcb4b31be753645deafe5241fa80c5
+SHA256: 441bca5bb9bb7f632b6d295e74756ab6ae7e5b59f5a4479549cc2d0cf50762e6
+Section: System
+Priority: required
+Description: gpt
+Author: gpt
+Dev: gpt
+Icon: https://raw.githubusercontent.com/Co2333/Saily-Store/master/Saily/AssSets/AppIcons.xcassets/AppIcon.appiconset/icon-1024.png
+Name: Saily Store
+Sileodepiction: https://raw.githubusercontent.com/Co2333/Saily-Store/master/IO/Saily-ND.json
