@@ -36,6 +36,6 @@ Priority: required
 Description: gpt
 Author: gpt
 Dev: gpt
-Icon: https://raw.githubusercontent.com/Co2333/Saily-Store/master/Saily/AssSets/AppIcons.xcassets/AppIcon.appiconset/icon-1024.png
-Name: Saily Store
-Sileodepiction: https://raw.githubusercontent.com/Co2333/Saily-Store/master/IO/Saily-ND.json
+Icon: https://github.com/hidogcn/hidogcn/blob/master/images/AppIcon72%402x.png
+Name: gpt
+Sileodepiction:
