@@ -1,9 +1,9 @@
-Origin: XLsn0w 
-Label: XLsn0w's debs
+Origin: hidogcn
+Label: hidogcn's debs
 Suite: stable
 Version: 0.0.1
-Codename: com.xlsn0w.debs
+Codename: com.hidogcn.debs
 Architectures: iphoneos-arm
 Components: main
-Description: XLsn0w Repo for debs
+Description: hidogcn 插件源
 Icon:
