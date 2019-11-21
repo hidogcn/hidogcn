@@ -20,22 +20,33 @@ Name: Saily Store
 Sileodepiction: https://raw.githubusercontent.com/Co2333/Saily-Store/master/IO/Saily-ND.json
 
 Package: com.ghb.ios.gpt
-Version: 1.1.16
+Version: 0.0.1-1072
 Architecture: iphoneos-arm
-Essential: Yes
 Maintainer: ghb
-Depends: firmware (>= 10.0)
-Conflicts: hidogcn
+Installed-Size: 4316
 Filename: debs/1.1.16_addios13.2.deb
 Size: 906248
-MD5: d17349f4aaf041d210d336d5fdc58ee8
+MD5sum: d17349f4aaf041d210d336d5fdc58ee8
 SHA1: d1e521beaefcb4b31be753645deafe5241fa80c5
 SHA256: 441bca5bb9bb7f632b6d295e74756ab6ae7e5b59f5a4479549cc2d0cf50762e6
-Section: System
-Priority: required
-Description: gpt
+Section: Utilities
+Description: An awesome application!
 Author: gpt
-Dev: gpt
-Icon: https://github.com/hidogcn/hidogcn/blob/master/images/AppIcon72%402x.png
-Name: gpt
-Sileodepiction:
+Name: GPT
+
+Package: com.xlsn0w.wechatcatchredenvelop
+Version: 2.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: XLsn0w
+Installed-Size: 272
+Depends: mobilesubstrate
+Filename: debs/com.xlsn0w.wechatcatchredenvelop_2.0.0-1+debug_iphoneos-arm.deb
+Size: 62548
+MD5sum: 6445746dcd0788480d120e48556256f8
+SHA1: 64b2b905de3aca840777188e454e18ac202079b3
+SHA256: af366948209f08703315b4e0f488c5505b401776d8e14779402f96cefafe1091
+Section: Tweaks
+Description: 微信抢红包插件
+Author: XLsn0w
+Name: WeChatRedEnvelop
+
