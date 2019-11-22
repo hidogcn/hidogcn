@@ -1,24 +1,3 @@
-Package: com.Lakr233.Saily
-Version: 0.6-b1063
-Architecture: iphoneos-arm
-Essential: Yes
-Maintainer: Lakr Aream
-Depends: firmware (>= 10.0)
-Conflicts: com.lakr233.SailyTest, com.lakr233.jw.SailyPackageManager, com.lakr233.jw.SailyStartupDaemon
-Filename: debs/com.Lakr233.Saily_0.6-b1063_iphoneos-arm.deb
-Size: 36440884
-MD5sum: a4fff5e0934b749238a998dac0e293ae
-SHA1: 9548ca0b6acf4e5d2566871f7d452e81a57e50f4
-SHA256: c1c1c6ed3af3088e89c0093e30d1385ffcbffbff2eecc815fa5def113840a559
-Section: System
-Priority: required
-Description: Saily Package Manager
-Author: Lakr Aream
-Dev: Lakr Aream
-Icon: https://raw.githubusercontent.com/Co2333/Saily-Store/master/Saily/AssSets/AppIcons.xcassets/AppIcon.appiconset/icon-1024.png
-Name: Saily Store
-Sileodepiction: https://raw.githubusercontent.com/Co2333/Saily-Store/master/IO/Saily-ND.json
-
 Package: com.ghb.ios.gpt
 Version: 0.0.1-1072
 Architecture: iphoneos-arm
@@ -33,20 +12,4 @@ Section: Utilities
 Description: An awesome application!
 Author: gpt
 Name: GPT
-
-Package: com.xlsn0w.wechatcatchredenvelop
-Version: 2.0.0-1+debug
-Architecture: iphoneos-arm
-Maintainer: XLsn0w
-Installed-Size: 272
-Depends: mobilesubstrate
-Filename: debs/com.xlsn0w.wechatcatchredenvelop_2.0.0-1+debug_iphoneos-arm.deb
-Size: 62548
-MD5sum: 6445746dcd0788480d120e48556256f8
-SHA1: 64b2b905de3aca840777188e454e18ac202079b3
-SHA256: af366948209f08703315b4e0f488c5505b401776d8e14779402f96cefafe1091
-Section: Tweaks
-Description: 微信抢红包插件
-Author: XLsn0w
-Name: WeChatRedEnvelop
 
