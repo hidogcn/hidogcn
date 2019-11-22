@@ -1,13 +1,13 @@
 Package: com.ghb.ios.gpt
-Version: 0.0.1-1072
+Version: 0.0.1-1116
 Architecture: iphoneos-arm
 Maintainer: ghb
-Installed-Size: 4316
-Filename: debs/1.1.16_addios13.2.deb
-Size: 906248
-MD5sum: d17349f4aaf041d210d336d5fdc58ee8
-SHA1: d1e521beaefcb4b31be753645deafe5241fa80c5
-SHA256: 441bca5bb9bb7f632b6d295e74756ab6ae7e5b59f5a4479549cc2d0cf50762e6
+Installed-Size: 4268
+Filename: debs/1.1.18.deb
+Size: 1099406
+MD5sum: df73c4b9b461c4db45f3852ae4e1c8fd
+SHA1: b6b76dd394c5d9afdd3b04cbfd113331da7ea9bd
+SHA256: b9901f2b9452ff072bdd33e0a3856a56420cac92e09b306e1a53b67fea086325
 Section: Utilities
 Description: An awesome application!
 Author: gpt
